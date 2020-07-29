@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main(){
+    int S, X1,X2;
+
+    scanf("%d" "%d" ,&X1,&S);
+    if ((S > -1000 && S < 1000)&& (X1 > -1000 && X1 < 1000)){
+      X2 = 2 * S - X1 ;
+	  printf("%d ", X2);    	
+    	
+    	
+	}
+   
+	
+    
+}
